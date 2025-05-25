@@ -44,22 +44,6 @@ Here are some projects I am currently developing as part of my academic journey 
 
 ---
 
-### 🌱 Learning Journey & Future Goals
-
-I am continuously working to expand my technical knowledge. My current learning focus includes:
-
-* Reinforcing data structures and algorithms in Python and Java.
-* Gaining proficiency in responsive web design techniques.
-* Understanding version control with Git and basic database interactions.
-
-My future learning objectives include gaining proficiency in:
-
-* **JavaScript:** For dynamic web interactions and full-stack development.
-* **PHP:** Exploring server-side scripting.
-* **C#:** Investigating the .NET ecosystem.
-* **SQL & NoSQL:** For comprehensive database management and design.
-* **XML:** For data structuring and exchange.
-
 ### 💬 Connect With Me
 
 I am open to connecting with other developers, exchanging ideas, and discussing entry-level project opportunities.
