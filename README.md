@@ -80,11 +80,6 @@ I am open to connecting with other developers, exchanging ideas, and discussing 
   </p>
 
 ### 🔗 Social Media.
-
-<p align="left">
-  <a href="https://github.com/Daminxs" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
    
   <a href="https://www.twitch.tv/daminxs" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel"/>
