@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9xVs0yF/giphy.gif" width="200" alt="Programming GIF" />
   <h1>Hello, I'm Daminxs! 👋</h1>
   <p>Systems Engineering Student from Costa Rica | Software Development Enthusiast</p>
 </div>
