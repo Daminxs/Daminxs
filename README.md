@@ -79,7 +79,7 @@ I am open to connecting with other developers, exchanging ideas, and discussing 
   </a>
   </p>
 
-### 🔗 Connect With Me
+### 🔗 Social Media.
 
 <p align="left">
   <a href="https://github.com/Daminxs" target="_blank">
