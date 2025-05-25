@@ -86,10 +86,6 @@ I am open to connecting with other developers, exchanging ideas, and discussing 
     <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
    
-  <a href="https://discordapp.com/users/568547852792365056" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/>
-  </a>
-   
   <a href="https://www.twitch.tv/daminxs" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel"/>
   </a>
