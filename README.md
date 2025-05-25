@@ -79,6 +79,30 @@ I am open to connecting with other developers, exchanging ideas, and discussing 
   </a>
   </p>
 
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Daminxs" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+   
+  <a href="https://discordapp.com/users/568547852792365056" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/>
+  </a>
+   
+  <a href="https://www.twitch.tv/daminxs" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel"/>
+  </a>
+   
+  <a href="YOUR_YOUTUBE_CHANNEL_URL" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+  </a>
+   
+  <a href="https://x.com/notdaminxs" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/>
+  </a>
+</p>
+
 ---
 
 <div align="center">
