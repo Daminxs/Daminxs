@@ -33,7 +33,7 @@ These are the technologies and concepts I have been actively studying and am cur
 
 Here are some projects I am currently developing as part of my academic journey and personal learning process. These represent my initial practical applications of acquired knowledge:
 
-* **[Your Small Project Name 1 - e.g., "Basic Python Calculator"]**
+* **[Your Small Project Name 1 - e.g., ]**
     * A brief description of the project's function (e.g., "A simple command-line calculator built with Python, demonstrating basic arithmetic operations.").
     * Technologies: `Python`
     * [🔗 Repository Link](https://github.com/YourUsername/YourRepo1)
